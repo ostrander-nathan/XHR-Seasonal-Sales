@@ -1,0 +1,20 @@
+{
+  "name": "modules",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Nathan Ostrander <ostrander_nathan@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ostrander-nathan/XHR-Seasonal-Sales",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
